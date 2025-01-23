@@ -13,7 +13,7 @@ Title: USFWS Circular 16: Migration of Birds (1950)
 
 Author: Frederick C. Lincoln
 
-Release Date: May 01, 2021 [eBook #65173]
+Release Date: April 26, 2021 [eBook #65173]
 
 Language: English
 
@@ -1438,7 +1438,7 @@ migratory journey vary greatly. The bobwhite and the western quails,
 the cardinal, the Carolina wren, and probably some of the titmice and
 woodpeckers, which are apparently almost or quite nonmigratory, may
 round out their full period of existence without at any time going
-more than 10 miles from the nest where they were hatched.
+more than lo miles from the nest where they were hatched.
 
 
 =Short and undetermined migrations=
